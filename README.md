@@ -67,16 +67,3 @@ Finally:
 
 - calls Home Assistant API → `switch.turn_off`
 - completely powers down the system environment
-
----
-
-## 🧪 Technologies used
-
-- 🐧 Bash scripting
-- 💾 BorgBackup
-- 🔐 SSH remote execution
-- 🏠 Home Assistant REST API
-- 📡 ping-based health checks
-- 🧾 structured logging + exit code tracking
-
----
